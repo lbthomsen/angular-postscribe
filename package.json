@@ -1,0 +1,23 @@
+{
+  "name": "angular-postscribe",
+  "version": "0.0.1",
+  "description": "Using postscribe (https://github.com/krux/postscribe) to deliver a synchronous ad asynchronously without modifying the ad code",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lbthomsen/angular-postscribe.git"
+  },
+  "keywords": [
+    "angularjs",
+    "postscribe"
+  ],
+  "author": "Lars Boegild Thomsen <lbthomsen@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lbthomsen/angular-postscribe/issues"
+  },
+  "homepage": "https://github.com/lbthomsen/angular-postscribe#readme"
+}
