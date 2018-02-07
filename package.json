@@ -19,5 +19,9 @@
   "bugs": {
     "url": "https://github.com/lbthomsen/angular-postscribe/issues"
   },
-  "homepage": "https://github.com/lbthomsen/angular-postscribe#readme"
+  "homepage": "https://github.com/lbthomsen/angular-postscribe#readme",
+  "dependencies": {
+    "angular": "^1.6.9",
+    "postscribe": "^2.0.8"
+  }
 }
